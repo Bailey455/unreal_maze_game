@@ -1147,3 +1147,26 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.09.20-02.44.41:575][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
 [2025.09.20-02.44.49:262][379]LogSlate: Took 0.022846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.09.20-02.46.02:061][829]LogDerivedDataCache: C:/Users/beh92/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.20-02.46.29:325][910]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.20-02.46.30:704][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.20-02.46.33:656][936]Cmd: EDIT COPY
+[2025.09.20-02.46.34:055][937]Cmd: EDIT PASTE
+[2025.09.20-02.46.39:970][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.20-02.46.40:407][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/Y6/U9TV05T3JJ2DE4EWAWMBNA
+[2025.09.20-02.46.40:408][997]LogSavePackage: Moving '../../../../../../Users/beh92/OneDrive/Documentos/GitHub/unreal_maze_game/maze_game_unreal/Saved/U9TV05T3JJ2DE4EWAWMBNA37CDB65D4C55BFBA5608E7819DE1066D.tmp' to '../../../../../../Users/beh92/OneDrive/Documentos/GitHub/unreal_maze_game/maze_game_unreal/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/Y6/U9TV05T3JJ2DE4EWAWMBNA.uasset'
+[2025.09.20-02.46.40:468][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 498.108 ms
+[2025.09.20-02.46.40:620][997]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.20-02.46.40:620][997]LogContentValidation: Enabled validators:
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.20-02.46.40:620][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.20-02.46.40:628][997]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.09.20-02.46.40:726][997]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/beh92/OneDrive/Documentos/GitHub/unreal_maze_game/maze_game_unreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.20-02.46.49:069][123]Cmd: DELETE
+[2025.09.20-02.46.49:069][123]Cmd: ACTOR DELETE
+[2025.09.20-02.46.49:108][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.09.20-02.46.49:216][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.09.20-02.46.49:221][123]LogEditorActor: Deleted 1 Actors (0.150 secs)
