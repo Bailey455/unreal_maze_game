@@ -1146,3 +1146,4 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2025.09.20-02.44.28:048][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14.009976, Update Interval: 350.170593
 [2025.09.20-02.44.41:575][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
 [2025.09.20-02.44.49:262][379]LogSlate: Took 0.022846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.20-02.46.02:061][829]LogDerivedDataCache: C:/Users/beh92/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
